@@ -9,8 +9,11 @@ The first thing I had to do was create and clone a repo for the liri-node-js app
 The user starts by putting node liri.js into the bash.
 
 It will prompt 3 selections:
+
  spotify-this-song
+ 
  do-what-it-says
+ 
  movie-this
 
 Spotify-this-song
